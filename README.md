@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My current resume can be found in the following [GitHub Flavored Markdown](https://raw.githubusercontent.com/0x17io/0x17io.github.io/main/jre_resume.pdf).
 
 ### Jekyll Themes
 
