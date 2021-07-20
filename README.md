@@ -1,8 +1,8 @@
-## Welcome to Espinoza's personal webapge.
+## Welcome to Espinoza's personal page.
 
-### Markdown
+### Brief Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a mathematics and programming teacher at the [Academy of Health Science Professions] and STEM (https://ahsp.lajoyaisd.com/).
 
 ```markdown
 Syntax highlighted code block
