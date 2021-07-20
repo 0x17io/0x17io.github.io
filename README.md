@@ -1,4 +1,4 @@
-## Welcome to Espinoza's personal page.
+## Espinoza's Personal Page
 
 ### Brief Description
 
