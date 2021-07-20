@@ -1,9 +1,5 @@
 ## Welcome to Espinoza's personal webapge.
 
-You can use the [editor on GitHub](https://github.com/0x17io/0x17io.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -26,7 +22,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-My current resume can be found in the following [GitHub Flavored Markdown](https://raw.githubusercontent.com/0x17io/0x17io.github.io/main/jre_resume.pdf).
+My current resume can be found in the following [resume](https://raw.githubusercontent.com/0x17io/0x17io.github.io/main/jre_resume.pdf).
 
 ### Jekyll Themes
 
