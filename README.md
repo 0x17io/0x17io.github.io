@@ -4,6 +4,6 @@
 
 I am currently a mathematics and programming teacher at the [Academy of Health Science Professions and STEM](https://ahsp.lajoyaisd.com/).
 
-`Code`
+```python```
 print("hello")
-`Code`
+```Code```
