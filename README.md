@@ -11,3 +11,5 @@ My current resume can be found [here](https://raw.githubusercontent.com/0x17io/0
 ### Python Musings
 
 ### Mathematical Explorations
+
+### Machine Learning Projects
